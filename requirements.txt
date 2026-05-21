@@ -1,0 +1,16 @@
+# requirements.txt
+
+# 核心 GUI 框架
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+
+# 如果后续要画更漂亮的图形
+matplotlib==3.8.4
+networkx==3.3
+
+# 其他工具（目前暂时用不到）
+# graphviz==0.20.3        # 如果要做更高级的图形布局
+# pyinstaller==6.10.0     # 打包 exe 时使用
+
+# 基本依赖
